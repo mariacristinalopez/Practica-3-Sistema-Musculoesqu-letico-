@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB;SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Anette
+    family-names: Vidal
+    email: L22212389@tectijuana.com
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/anettevidal/Practica3MSF'
+keywords:
+  - Sistema musculoesquelético
+  - Modelo matemático
+  - Tratamiento
+  - Control
+  - Circuito RLC
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-30'
