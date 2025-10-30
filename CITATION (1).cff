@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MATLAB, PYTHON'
+message: lenguaje python
+type: software
+authors:
+  - given-names: Maria Cristina
+    family-names: Lopez Lopez
+    email: l22212259@tectijuana.edu.mx
+    affiliation: TECNM-ITT
+repository-code: >-
+  https://github.com/mariacristinalopez/Practica-3-Sistema-Musculoesqu-letico-
+keywords:
+  - Control
+  - Tratamiento
+  - Sistema matematico
+  - Sistema musculoesqueletico
+  - Modelo fisiologico
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-30'
