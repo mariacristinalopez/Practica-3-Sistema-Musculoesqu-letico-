@@ -6,7 +6,7 @@ Tecnológico Nacional de México [TecNM - Tijuana]
 Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
 
 Nombre del alumno: Maria Cristina Lopez Lopez
-Número de control: 22212277
+Número de control: 22212259
 Correo institucional: 22212259@tectijuana.edu.mx
 
 Asignatura: Modelado de Sistemas Fisiológicos
@@ -99,5 +99,6 @@ fg2.set_size_inches(w,h)
 fg2.tight_layout()
 fg2.savefig('SistemaMEPI.pdf',bbox_inches = 'tight',dpi=660)
 fg2.savefig('SistemaMEPI.png',bbox_inches = 'tight',dpi=660)
+
 
 
